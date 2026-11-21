@@ -556,7 +556,7 @@ body.nav-open { overflow: hidden; }
 .credentials__list {
   display: flex;
   flex-wrap: wrap;
-  gap: 10px 0;
+  gap: 10px 32px;
   padding-block: 18px;
 }
 .credentials__item {
